@@ -20,8 +20,8 @@ function afterTheCake() {
   cake.style.display = "none";
   const kitty = document.createElement("img");
   div.append(kitty);
-  kitty.style.width = "50%";
-  kitty.style.marginTop = "-1rem";
+  kitty.style.width = "70%";
+  kitty.style.marginTop = "-2rem";
   kitty.src = "img/kitty.gif";
   myP_1.style.display = "none";
   myP_2.style.display = "block";
