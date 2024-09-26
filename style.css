@@ -44,7 +44,6 @@ body {
   margin-top: 1rem;
   display: none;
   margin-top: 3rem;
-  margin-bottom: 1rem;
   text-align: center;
 }
 #myH1_2 span {
@@ -58,6 +57,7 @@ body {
   justify-content: center;
   align-items: center;
 }
+
 .kitty1 {
   min-width: 400px;
   min-height: 100px;

@@ -20,7 +20,7 @@ function afterTheCake() {
   cake.style.display = "none";
   const kitty = document.createElement("img");
   div.append(kitty);
-  kitty.style.width = "40%";
+  kitty.style.width = "50%";
   kitty.src = "img/kitty.gif";
   myP_1.style.display = "none";
   myP_2.style.display = "block";
