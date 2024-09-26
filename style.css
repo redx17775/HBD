@@ -44,7 +44,7 @@ body {
   margin-top: 1rem;
   display: none;
   margin-top: 3rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   text-align: center;
 }
 #myH1_2 span {
@@ -80,5 +80,5 @@ body {
   color: #ec1b9c;
   text-shadow: 2.5px 2px 0 #1e34be;
   display: none;
-  padding: 3rem;
+  margin: 0 3rem;
 }
