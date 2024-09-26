@@ -58,9 +58,6 @@ body {
   justify-content: center;
   align-items: center;
 }
-#kitty {
-  display: none;
-}
 .kitty1 {
   min-width: 400px;
   min-height: 100px;
@@ -81,4 +78,5 @@ body {
   text-shadow: 2.5px 2px 0 #1e34be;
   display: none;
   margin: 0 3rem;
+  margin-top: -3rem;
 }
