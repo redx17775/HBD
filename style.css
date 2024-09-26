@@ -1,0 +1,79 @@
+@font-face {
+  font-family: font1;
+  src: url(font/Mario64.ttf);
+}
+@font-face {
+  font-family: font2;
+  src: url(font/pixelpoiiz.ttf);
+}
+@font-face {
+  font-family: font3;
+  src: url(font/Sweet\ Dreams.ttf);
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #0e0a19;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.headtitel {
+  min-width: 400px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#myH1_1 {
+  font-family: "font1";
+  font-size: 3rem;
+  color: #ec1b9c;
+  text-shadow: 2.5px 2px 0 #1e34be;
+  margin-top: 1rem;
+}
+#myH1_2 {
+  font-family: "font1";
+  font-size: 3rem;
+  color: #ec1b9c;
+  text-shadow: 2.5px 2px 0 #1e34be;
+  margin-top: 1rem;
+  display: none;
+  padding: 3rem;
+}
+#myH1_2 span {
+  font-family: "font2";
+}
+
+.cack {
+  min-width: 400px;
+  min-height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.kitty1 {
+  min-width: 400px;
+  min-height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#myP_1 {
+  font-family: "font1";
+  font-size: 2rem;
+  color: #ec1b9c;
+  text-shadow: 2.5px 2px 0 #1e34be;
+}
+#myP_2 {
+  font-family: "font1";
+  font-size: 1rem;
+  color: #ec1b9c;
+  text-shadow: 2.5px 2px 0 #1e34be;
+  display: none;
+  padding: 3rem;
+}
